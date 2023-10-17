@@ -1,0 +1,76 @@
+body{
+    background-color: #2c2c2c;
+}
+a{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.conteudo_principal{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    width: 70%;
+    top: 20%;
+    left: 15%;
+    height:600px;
+}
+.faixa{
+    background-color: #2c2c2c;
+    position: absolute;
+    align-items: center;
+    width: 90%;
+    border-radius: 15px;
+    top:17%;
+    left:5%;
+    display: flex;
+    justify-content: center;
+}
+
+.titulo_atualizacoes{
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+}
+
+.caixa_download{
+    position: absolute;
+    border: 1px solid #000;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    width: 25%;
+    top: 2%;
+    left: 36%;
+}
+.link_download{
+    color: blue;
+}
+.lista_atualizacoes{
+    position: absolute;
+    top: 26%;
+}
+.links_lista{
+    font-size: 16px;
+}
+.faixa_downloads{
+    background-color: #2c2c2c;
+    position: absolute;
+    align-items: center;
+    width: 90%;
+    border-radius: 15px;
+    top:2%;
+    left:5%;
+    display: flex;
+    justify-content: center;
+}
+
+.links_downloads{
+    position: absolute;
+    top: 13%;
+    left: 30%;
+    border: 1px solid #000;
+    padding: 2%;
+}
+.texto_downloads{
+    position: absolute;
+    top: 40%;
+    left: 5%;
+}
